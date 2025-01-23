@@ -68,3 +68,6 @@
 - Matplotlib
 - Pandas
 
+![1](01.png)
+![2](1.png)
+![3](2.png)
